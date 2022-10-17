@@ -1,1 +1,1 @@
-# Trading System 1 
+# Single Strategy System 
